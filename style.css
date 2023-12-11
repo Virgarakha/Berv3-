@@ -1,0 +1,164 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #3d6465;
+}
+
+.nvb2 {
+  display: flex;
+  justify-content: space-between;
+  background-color: #344e4f;
+  height: 50px;
+}
+
+.nvb2 img {
+  height: 40px;
+  padding: 5px 0;
+  margin-right: 20px;
+}
+
+.nvb2 h1 {
+  color: white;
+  padding : 10px 0;
+  font-family: Arial;
+  margin-left: 20px;
+}
+
+.isi2 h1 {
+  color: white;
+  font-size: 30px;
+  font-family: Sans-Serif;
+}
+
+.isi2 h1 span {
+  color: #d7d7d7;
+  font-size: 20px;
+}
+
+.isi {
+  margin-top: -170px;
+  margin-left: 20px;
+}
+
+.pc {
+  text-align: center;
+  font-size: 10px;
+  margin-top: 30px;
+}
+
+.pc2 img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 55px;
+}
+
+.pc2 {
+  background-color: #344e4f;
+  border-radius: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  height: 250px;
+  color: white;
+  margin-bottom: 30px;
+}
+
+.pc2 li {
+  padding: 0 20px;
+  list-style: none;
+}
+
+.pc2 li h1 {
+  padding: 5px 0;
+}
+.ct2 img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 55px;
+  height: 60px;
+}
+
+.ct2 {
+  background-color: #344e4f;
+  border-radius: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  height: 250px;
+  color: white;
+  margin-bottom: 30px;
+}
+
+.ct2 li {
+  padding: 0 20px;
+  list-style: none;
+}
+
+.ct2 li h1 {
+  padding: 5px 0;
+}
+.ftt2 {
+  padding: 20px 0;
+}
+
+.ftt2 img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 95%;
+  border-radius: 10px;
+}
+
+.hub2 {
+  display: flex;
+  list-style: none;
+}
+
+.hub2 img {
+  height: 20px;
+}
+
+.hub2 p {
+  font-size: 10px;
+  color: white;
+  padding: 5px;
+}
+
+.hub {
+  margin-top: 50px;
+  margin-left: 20px;
+}
+
+.n3 li {
+  list-style: none;
+}
+
+.n3 img {
+  height: 50px;
+}
+
+.n3 h1 {
+  font-size: 18px;
+  color: white;
+}
+
+.n2 {
+  display: flex;
+  justify-content: space-around;
+  padding: 0 50px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.n3 {
+  background-color: #344e4f;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
